@@ -1,0 +1,13 @@
+*{
+  text-align: center;margin-top: 1rem; 
+
+}
+h1{
+  color: rgb(250, 213, 62);
+}
+button{
+  height: 2rem;
+  width: 8vw;
+  background-color: rgb(230, 151, 34);
+border: 2px solid rgb(244, 0, 0);
+}
